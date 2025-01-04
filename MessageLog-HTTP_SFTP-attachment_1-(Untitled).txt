@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Products>
+    <Product>
+        <Category>Notebooks</Category>
+        <ProductId>HT-1000</ProductId>
+        <DimensionWidth>0.3200</DimensionWidth>
+        <WeightUnit>KG</WeightUnit>
+        <DimensionUnit>m</DimensionUnit>
+        <DimensionHeight>0.0300</DimensionHeight>
+        <DimensionDepth>0.1800</DimensionDepth>
+        <Weight>4.200</Weight>
+        <Name>Notebook Basic 15</Name>
+    </Product>
+	</Products>
