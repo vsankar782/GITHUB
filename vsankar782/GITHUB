@@ -2,7 +2,7 @@
 <Products>
     <Product>
         <Category>Notebooks</Category>
-        <ProductId>HT-2000</ProductId>
+        <ProductId>HT-1000</ProductId>
         <DimensionWidth>0.3200</DimensionWidth>
         <WeightUnit>KG</WeightUnit>
         <DimensionUnit>m</DimensionUnit>
@@ -11,4 +11,92 @@
         <Weight>4.200</Weight>
         <Name>Notebook Basic 15</Name>
     </Product>
-	</Products>
+    <Product>
+        <Category>Notebooks</Category>
+        <ProductId>HT-1001</ProductId>
+        <DimensionWidth>0.2900</DimensionWidth>
+        <WeightUnit>KG</WeightUnit>
+        <DimensionUnit>m</DimensionUnit>
+        <DimensionHeight>0.0310</DimensionHeight>
+        <DimensionDepth>0.1700</DimensionDepth>
+        <Weight>4.500</Weight>
+        <Name>Notebook Basic 17</Name>
+    </Product>
+    <Product>
+        <Category>PDAs/Organizers</Category>
+        <ProductId>HT-1007</ProductId>
+        <DimensionWidth>0.3200</DimensionWidth>
+        <WeightUnit>KG</WeightUnit>
+        <DimensionUnit>m</DimensionUnit>
+        <DimensionHeight>0.0300</DimensionHeight>
+        <DimensionDepth>0.2200</DimensionDepth>
+        <Weight>0.200</Weight>
+        <Name>1UMTS PDA</Name>
+    </Product>
+    <Product>
+        <Category>Notebooks</Category>
+        <ProductId>HT-1010</ProductId>
+        <DimensionWidth>0.3300</DimensionWidth>
+        <WeightUnit>KG</WeightUnit>
+        <DimensionUnit>m</DimensionUnit>
+        <DimensionHeight>0.0300</DimensionHeight>
+        <DimensionDepth>0.2000</DimensionDepth>
+        <Weight>4.300</Weight>
+        <Name>Notebook Professional 15</Name>
+    </Product>
+    <Product>
+        <Category>Scanners</Category>
+        <ProductId>HT-1081</ProductId>
+        <DimensionWidth>0.3100</DimensionWidth>
+        <WeightUnit>KG</WeightUnit>
+        <DimensionUnit>m</DimensionUnit>
+        <DimensionHeight>0.0700</DimensionHeight>
+        <DimensionDepth>0.4300</DimensionDepth>
+        <Weight>2.400</Weight>
+        <Name>Power Scan</Name>
+    </Product>
+    <Product>
+        <Category>Scanners</Category>
+        <ProductId>HT-1082</ProductId>
+        <DimensionWidth>0.3300</DimensionWidth>
+        <WeightUnit>KG</WeightUnit>
+        <DimensionUnit>m</DimensionUnit>
+        <DimensionHeight>0.1200</DimensionHeight>
+        <DimensionDepth>0.4100</DimensionDepth>
+        <Weight>3.200</Weight>
+        <Name>Jet Scan Professional</Name>
+    </Product>
+    <Product>
+        <Category>Multifunction printers</Category>
+        <ProductId>HT-1085</ProductId>
+        <DimensionWidth>0.4500</DimensionWidth>
+        <WeightUnit>KG</WeightUnit>
+        <DimensionUnit>m</DimensionUnit>
+        <DimensionHeight>0.2200</DimensionHeight>
+        <DimensionDepth>0.4200</DimensionDepth>
+        <Weight>23.200</Weight>
+        <Name>Copymaster</Name>
+    </Product>
+    <Product>
+        <Category>Speakers</Category>
+        <ProductId>HT-1090</ProductId>
+        <DimensionWidth>0.1200</DimensionWidth>
+        <WeightUnit>KG</WeightUnit>
+        <DimensionUnit>m</DimensionUnit>
+        <DimensionHeight>0.1600</DimensionHeight>
+        <DimensionDepth>0.1000</DimensionDepth>
+        <Weight>3.000</Weight>
+        <Name>Surround Sound</Name>
+    </Product>
+    <Product>
+        <Category>Speakers</Category>
+        <ProductId>HT-1091</ProductId>
+        <DimensionWidth>0.1300</DimensionWidth>
+        <WeightUnit>KG</WeightUnit>
+        <DimensionUnit>m</DimensionUnit>
+        <DimensionHeight>0.1750</DimensionHeight>
+        <DimensionDepth>0.1100</DimensionDepth>
+        <Weight>1.400</Weight>
+        <Name>Blaster Extreme</Name>
+    </Product>
+</Products>
